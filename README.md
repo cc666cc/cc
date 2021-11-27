@@ -7,7 +7,9 @@ _TW的小伙伴好！我是chengcheng!_
 
 
 
-![alt 头像](D:\tw-homework\cc\image\头像.jpg)
+![alt 头像](.\image\头像.jpg)
+
+
 
 
 
